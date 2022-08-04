@@ -4,3 +4,4 @@ settings.JSON
 .ftpignore
 .ftpconfig
 .working-assets/
+**/node_modules
