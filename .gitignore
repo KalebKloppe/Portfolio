@@ -1,0 +1,6 @@
+.vscode/
+sftp.JSON
+settings.JSON
+.ftpignore
+.ftpconfig
+.working-assets/
